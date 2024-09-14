@@ -1,3 +1,3 @@
-# Github and git confilct
+# Github and git conflicting
 #**Ikemba Ajaero** 
 ##**hi5049**
